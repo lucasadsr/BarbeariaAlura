@@ -82,10 +82,6 @@ nav a:hover {
 	margin-top: 10px;
 }
 
-main {
-
-}
-
 form {
 	width: 940px;
 	margin: 40px auto;
@@ -162,6 +158,7 @@ footer {
 /* css da página inicial */
 .banner {
 	width: 100%;
+	height: 600px;
 }
 
 .titulo-principal {
